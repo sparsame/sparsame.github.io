@@ -8,15 +8,13 @@ categories: diary
 
 Download test text
 
-![](//s2982.pcdn.co/wp-content/uploads/2014/08/HP_hc_new_3-e1407533776984.jpeg)
+
 
 Cover Books   | Title Books
 ------------- | -------------
 [![Alt text](//s2982.pcdn.co/wp-content/uploads/2014/08/HP_hc_new_3-e1407533776984.jpeg)](http://example.com/)              | File Name: INTO_THE_WATER.pdf
-              | Size: 3186 KB
-              | Type: PDF, ePub, Book
-              | Uploaded: 12.07.2015
-              | tatus: AVAILABLE Last checked: 34 Minutes ago!
+Type:| PDF, ePub, Book
+AVAILABLE Last checked:| 34 Minutes ago!
 
 
 
@@ -24,5 +22,4 @@ Cover Books   | Title Books
 
 
 
-
-
+There is also this series of English paperbacks by Bloomsbury. I’m guessing after they saw those gorgeous things from Scholastic they decided they had to design a new line of their own to compete. These are light and functional, but not particularly pretty.
